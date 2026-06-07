@@ -22,7 +22,7 @@ jobs:
     # maquina onde o job vai rodar
     runs-on:
       - self-hosted
-      - windows-latest
+      - windows
       - x64
 
     # passos do job
