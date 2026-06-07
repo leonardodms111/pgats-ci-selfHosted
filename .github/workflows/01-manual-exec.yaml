@@ -7,6 +7,10 @@ name: 'Execução Manual'
 # gatilho manual = workflow_dispatch
 on:
   workflow_dispatch:
+
+defaults:
+  run:
+    shell: cmd
   
   # tarefas dentro da pipeline = jobs
 
@@ -16,7 +20,10 @@ jobs:
   e2e-tests:
     
     # maquina onde o job vai rodar
-    runs-on: ubuntu-latest
+    runs-on:
+      - self-hosted
+      - windows-latest
+      - x64
 
     # passos do job
     steps:
