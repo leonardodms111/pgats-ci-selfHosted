@@ -1,0 +1,84 @@
+[2026-06-07 01:21:04Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'Runner': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.runner'
+[2026-06-07 01:21:04Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2026-06-07 01:21:04Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26200.
+[2026-06-07 01:21:04Z INFO Listener] Version: 2.334.0
+[2026-06-07 01:21:04Z INFO Listener] Commit: f1995ede5d885c997d13d8eca5467c4ce97fe69c
+[2026-06-07 01:21:04Z INFO Listener] Culture: pt-BR
+[2026-06-07 01:21:04Z INFO Listener] UI Culture: pt-BR
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO Listener] Validating directory permissions for: 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO CommandLineParser] Parse
+[2026-06-07 01:21:04Z INFO CommandLineParser] Parsing 1 args
+[2026-06-07 01:21:04Z INFO CommandLineParser] parsing argument
+[2026-06-07 01:21:04Z INFO CommandLineParser] HasArgs: False
+[2026-06-07 01:21:04Z INFO CommandLineParser] Adding Command: run
+[2026-06-07 01:21:04Z INFO Listener] Arguments parsed
+[2026-06-07 01:21:04Z INFO Runner] ExecuteCommand
+[2026-06-07 01:21:04Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin\Runner.Listener.dll
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] binPath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] RootFolder: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'Runner': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.runner'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] ConfigFilePath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.runner
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.runner_migrated'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.runner_migrated
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] CredFilePath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials_migrated'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials_migrated
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\bin'
+[2026-06-07 01:21:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner'
+[2026-06-07 01:21:04Z INFO HostContext] Well known config file 'Service': 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.service'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.service
+[2026-06-07 01:21:04Z INFO CommandSettings] Flag 'help': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Flag 'version': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Flag 'check': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Command 'configure': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Command 'remove': 'False'
+[2026-06-07 01:21:04Z INFO CommandSettings] Command 'warmup': 'False'
+[2026-06-07 01:21:04Z INFO ConfigurationManager] LoadSettings
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsConfigured()
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsConfigured: True
+[2026-06-07 01:21:04Z INFO ConfigurationManager] Is configured: True
+[2026-06-07 01:21:04Z INFO ConfigurationStore] Read setting file: 405 chars
+[2026-06-07 01:21:04Z INFO ConfigurationManager] Settings Loaded
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsServiceConfigured()
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsServiceConfigured: False
+[2026-06-07 01:21:04Z INFO CommandSettings] Command 'run': 'True'
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsConfigured()
+[2026-06-07 01:21:04Z INFO ConfigurationStore] IsConfigured: True
+[2026-06-07 01:21:04Z INFO ConfigurationManager] Is configured: True
+[2026-06-07 01:21:04Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2026-06-07 01:21:04Z INFO Runner] Set runner startup type - Manual
+[2026-06-07 01:21:04Z INFO CommandSettings] Flag 'once': 'False'
+[2026-06-07 01:21:04Z ERR  Terminal] WRITE ERROR: An error occurred: Could not find file 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials'.
+[2026-06-07 01:21:04Z ERR  Listener] System.IO.FileNotFoundException: Could not find file 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials'.
+File name: 'C:\Users\leona\Documents\POS\Projetos\pgats-ci-selfHosted\actions-runner\.credentials'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.ReadAllText(String path, Encoding encoding)
+   at GitHub.Runner.Sdk.IOUtil.LoadObject[T](String path, Boolean required)
+   at GitHub.Runner.Common.ConfigurationStore.GetCredentials()
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)

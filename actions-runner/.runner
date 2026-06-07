@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LEONARDO",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus6.actions.githubusercontent.com/gQPs9wxv3KrGJdJCUgndVS0HBrzgxPMOLJl5WchPd4wfKVOamM/",
+  "gitHubUrl": "https://github.com/leonardodms111/pgats-ci-selfHosted",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
