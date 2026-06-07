@@ -3,10 +3,17 @@ name: "Manual E2E Execution"
 on:
   workflow_dispatch:
 
+defaults:
+  run:
+    shell: cmd
+
 jobs:
   e2e-tests:
     name: Run E2E tests
-    runs-on: ubuntu-latest
+    runs-on: 
+      - self-hosted
+      - windows-latest
+      - x64
 
     steps:
       - name: Checkout repository
